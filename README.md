@@ -1,1 +1,2 @@
-# my_thesis
+# 
+# Just some random notes
